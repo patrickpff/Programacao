@@ -1,0 +1,16 @@
+1
+Astronauta
+3
+2
+Argos
+7
+4
+Aldebaran
+10
+5
+Missouri
+5
+8
+Arcanium
+12
+-1

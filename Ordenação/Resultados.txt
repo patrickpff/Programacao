@@ -1,0 +1,38 @@
+
+CONJUNTO DE 500 REGISTROS:
+Insercao (aleatorio): tempo de execucao: 0 mim e 0 seg - comparacoes: 499 - trocas: 60023
+Insercao (ordenado): tempo de execucao: 0 mim e 0 seg - comparacoes: 998 - trocas: 60522
+Insercao (em ordem decrescente): tempo de execucao: 0 mim e 0 seg - comparacoes: 1497 - trocas: 185771
+Selecao (aleatorio): tempo de execucao: 0 mim e 0 seg - comparacoes: 124750 - trocas: 53170
+Selecao (ordenado): tempo de execucao: 0 mim e 0 seg - comparacoes: 249500 - trocas: 53170
+Selecao (em ordem decrescente): tempo de execucao: 0 mim e 0 seg - comparacoes: 374250 - trocas: 177920
+Shellsort (aleatorio): tempo de execucao: 0 mim e 0 seg - comparacoes: 3348 - trocas: 3348
+Shellsort (ordenado): tempo de execucao: 0 mim e 0 seg - comparacoes: 3348 - trocas: 3348
+Shellsort (em ordem decrescente): tempo de execucao: 0 mim e 0 seg - comparacoes: 5152 - trocas: 5152
+Quicksort (aleatorio): tempo de execucao: 0 mim e 0 seg - comparacoes: 3785 - trocas: 1206
+Quicksort (ordenado): tempo de execucao: 0 mim e 0 seg - comparacoes: 8042 - trocas: 1548
+Quicksort (em ordem decrescente): tempo de execucao: 0 mim e 0 seg - comparacoes: 11568 - trocas: 2053
+Heapsort (aleatorio): tempo de execucao: 0 mim e 0 seg - comparacoes: 3547 - trocas: 499
+Heapsort (ordenado): tempo de execucao: 0 mim e 0 seg - comparacoes: 7389 - trocas: 998
+Heapsort (em ordem decrescente): tempo de execucao: 0 mim e 0 seg - comparacoes: 10566 - trocas: 1497
+
+CONJUNTO DE 5000 REGISTROS:
+Insercao (aleatorio): tempo de execucao: 0 mim e 0 seg - comparacoes: 15565 - trocas: 6164019
+Insercao (ordenado): tempo de execucao: 0 mim e 0 seg - comparacoes: 20564 - trocas: 6169018
+Insercao (em ordem decrescente): tempo de execucao: 0 mim e 0 seg - comparacoes: 25563 - trocas: 18671517
+Selecao (aleatorio): tempo de execucao: 0 mim e 0 seg - comparacoes: 12497500 - trocas: 5604220
+Selecao (ordenado): tempo de execucao: 0 mim e 0 seg - comparacoes: 24995000 - trocas: 5604220
+Selecao (em ordem decrescente): tempo de execucao: 0 mim e 0 seg - comparacoes: 37492500 - trocas: 18101720
+Shellsort (aleatorio): tempo de execucao: 0 mim e 0 seg - comparacoes: 65566 - trocas: 65566
+Shellsort (ordenado): tempo de execucao: 0 mim e 0 seg - comparacoes: 65566 - trocas: 65566
+Shellsort (em ordem decrescente): tempo de execucao: 0 mim e 0 seg - comparacoes: 84778 - trocas: 84778
+Quicksort (aleatorio): tempo de execucao: 0 mim e 0 seg - comparacoes: 57700 - trocas: 15687
+Quicksort (ordenado): tempo de execucao: 0 mim e 0 seg - comparacoes: 116913 - trocas: 19217
+Quicksort (em ordem decrescente): tempo de execucao: 0 mim e 0 seg - comparacoes: 169666 - trocas: 24670
+Heapsort (aleatorio): tempo de execucao: 0 mim e 0 seg - comparacoes: 52154 - trocas: 4999
+Heapsort (ordenado): tempo de execucao: 0 mim e 0 seg - comparacoes: 107808 - trocas: 9998
+Heapsort (em ordem decrescente): tempo de execucao: 0 mim e 0 seg - comparacoes: 156245 - trocas: 14997
+
+CONJUNTO DE 50000 REGISTROS:
+Insercao (aleatorio): tempo de execucao: 0 mim e 3 seg - comparacoes: 206244 - trocas: 623293436
+Insercao (ordenado): tempo de execucao: 0 mim e 0 seg - comparacoes: 256243 - trocas: 623343435

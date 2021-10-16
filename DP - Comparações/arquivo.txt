@@ -1,0 +1,14 @@
+CONJUNTO DE 500 REGISTROS
+SELECAO:  Tempo de execucao: 0.00000 seg - comparacoes: 2408 - trocas: 500
+INSERCAO:  Tempo de execucao: 0.00000 seg - comparacoes: 38051 - trocas: 499
+SHELLSORT:  Tempo de execucao: 0.00000 seg - comparacoes: 2457 - trocas: 6
+QUICKSORT:  Tempo de execucao: 0.00000 seg - comparacoes: 1359 - trocas: 1458
+HEAPSORT:  Tempo de execucao: 0.00000 seg - comparacoes: 3628 - trocas: 499
+CONJUNTO DE 5000 REGISTROS
+SELECAO:  Tempo de execucao: 0.05000 seg - comparacoes: 29200 - trocas: 5000
+INSERCAO:  Tempo de execucao: 0.02000 seg - comparacoes: 3544458 - trocas: 4999
+SHELLSORT:  Tempo de execucao: 0.00000 seg - comparacoes: 35084 - trocas: 8
+QUICKSORT:  Tempo de execucao: 0.00000 seg - comparacoes: 22864 - trocas: 23173
+HEAPSORT:  Tempo de execucao: 0.00000 seg - comparacoes: 53125 - trocas: 4999
+CONJUNTO DE 50000 REGISTROS
+SELECAO:  Tempo de execucao: 4.25500 seg - comparacoes: 318373 - trocas: 50000

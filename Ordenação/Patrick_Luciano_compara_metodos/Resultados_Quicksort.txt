@@ -1,0 +1,19 @@
+
+QuickSort Comum
+
+Tempo gasto: 0.000000  Milesimos de segundo
+Numero de comparacoes: 3805
+Numero de trocas: 1351
+
+QuickSort Estavel
+
+Tempo gasto: 0.000000 Milesimos de segundo
+Numero de comparacoes: 4633
+Numero de trocas: 1357
+
+QuickSort - Mediana de tres elementos
+
+Tempo gasto: 0.000000 Milesimos de segundo
+Numero de comparacoes: 3635
+Numero de trocas: 1363
+
